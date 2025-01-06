@@ -1,0 +1,21 @@
+.login-container form{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 250px;
+  margin: auto;
+  margin-top: 120px;
+  gap: 10px;
+}
+
+input{
+  padding: 5px 10px 5px 10px;
+}
+button{
+  padding: 5px 10px 5px 10px;
+}
+
+h2,h3{
+  text-align: center;
+  color: red;
+}
